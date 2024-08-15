@@ -4,3 +4,15 @@
 [submodule "WeatherAPI"]
 	path = WeatherAPI
 	url = https://github.com/gokulappavu/WeatherAPI.git
+[submodule "CoffeeShop"]
+	path = CoffeeShop
+	url = https://github.com/gokulappavu/CoffeeShop.git
+[submodule "MooScript"]
+	path = MooScript
+	url = https://github.com/gokulappavu/MooScript.git
+[submodule "WhatsApp-Clone"]
+	path = WhatsApp-Clone
+	url = https://github.com/gokulappavu/WhatsApp-Clone.git
+[submodule "Ram-Bnk"]
+	path = Ram-Bnk
+	url = https://github.com/gokulappavu/Ram-Bnk.git

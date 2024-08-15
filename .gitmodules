@@ -1,3 +1,6 @@
 [submodule "SabariMala"]
 	path = SabariMala
 	url = https://github.com/gokulappavu/SabariMala.git
+[submodule "WeatherAPI"]
+	path = WeatherAPI
+	url = https://github.com/gokulappavu/WeatherAPI.git
